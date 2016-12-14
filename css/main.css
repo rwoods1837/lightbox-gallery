@@ -1,0 +1,16 @@
+h1 {
+
+}
+
+.lightbox-gallery a {
+  text-decoration: none;
+}
+
+.lightbox-gallery img {
+  border: 1px solid #bbb;
+  padding: 4px;
+}
+
+.lightbox-gallery img:hover {
+  box-shadow: 3px 3px 3px #888
+}
